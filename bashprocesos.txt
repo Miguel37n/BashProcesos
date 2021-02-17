@@ -1,0 +1,6 @@
+#!/bin/bash 
+echo "Creacion directorio"
+echo "Ingrese nombre de la carpeta"
+read carpeta
+
+mkdir $HOME/$carpeta
